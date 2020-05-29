@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06918f68-4978-4c78-98e1-10f8e9b45dee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06918f68-4978-4c78-98e1-10f8e9b45dee" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +240,7 @@
       <workItem from="1583321973866" duration="116000" />
       <workItem from="1583754955913" duration="151000" />
       <workItem from="1583992509184" duration="1425000" />
-      <workItem from="1590755157634" duration="2376000" />
+      <workItem from="1590755157634" duration="2700000" />
     </task>
     <task id="LOCAL-00001" summary="版本更新">
       <created>1590757680851</created>
@@ -251,7 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590757680851</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jackson 版本更新">
+      <created>1590758093272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590758093272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jackson 版本更新">
+      <created>1590758279094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590758279094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -268,17 +280,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="版本更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="版本更新" />
+    <MESSAGE value="jackson 版本更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="jackson 版本更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1590757677904">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1590758275548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590757677904" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590757697405">
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590758275548" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590758281918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590757697405" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590758281918" />
     <state x="387" y="150" key="git4idea.merge.GitPullDialog" timestamp="1590757690627">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
